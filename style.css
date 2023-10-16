@@ -3,10 +3,9 @@
 	padding: 0;
 	font-family: sans-serif;
 }
-.banner{
+.styleimg{
 	width: 100%;
 	height: 100vh;
-	background-image: linear-gradient(rgba(0,0,0,0.75),(rgba(0,0,0,0.75))),url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fnews.yahoo.com%2Fvolkswagen-atlas-basecamp-off-road-130000043.html&psig=AOvVaw3eg4e6CRPXXeW1kF6WAh95&ust=1697420680452000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjqnIb39oEDFQAAAAAdAAAAABAE);
-	background-size: cover;
+	background-image: linear-gradient(rgba(0,0,0,0.75),(rgba(0,0,0,0.75))),url(https://images.pistonheads.com/nimg/47056/blobid1.jpg);
 	background-position: center;
 }
