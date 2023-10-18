@@ -103,3 +103,19 @@
     background: #0c8bd4b1;
     cursor: pointer;
 }
+.car {
+    background-color: #fff;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.car h2 {
+    color: #333;
+}
+
+.car img {
+    max-width: 100%;
+}
