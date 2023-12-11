@@ -105,9 +105,6 @@
 }
 .sitemap{
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/mercedes-amg_gt63_s_e_performance-001-cornering-front.jpg);
-    background-size: cover;
-    background-position: center;
 	width: 85%;
     margin: auto;
     padding: 35px 0;
